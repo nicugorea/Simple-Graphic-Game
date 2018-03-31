@@ -1,0 +1,2 @@
+Player_X	Player_Y
+Level_data[8][16]
